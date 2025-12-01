@@ -16,7 +16,6 @@ It uses the `gemma3:4b` model by default, keeps track of the conversation histor
 * Python
 * LangChain
 * Ollama (`gemma3:4b`)
-* (Optional) Virtual environments / venv / conda
 
 ### **🚀 How to Run**
 
